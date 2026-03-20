@@ -1,0 +1,51 @@
+{
+  "name": "Project",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$path": "src/ReplicatedStorage"
+    },
+
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
+
+    "ServerStorage": {
+      "$path": "src/ServerStorage"
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/StarterPlayer/StarterPlayerScripts"
+      },
+      "StarterCharacterScripts": {
+        "$path": "src/StarterPlayer/StarterCharacterScripts"
+      }
+    },
+
+    "StarterGui": {
+      "$path": "src/StarterGui"
+    },
+
+    "StarterPack": {
+      "$path": "src/StarterPack"
+    },
+
+    "SoundService": {
+      "$path": "src/SoundService"
+    },
+
+    "Lighting": {
+      "$path": "src/Lighting"
+    },
+
+    "TextChatService": {
+      "$path": "src/TextChatService"
+    },
+
+    "Teams": {
+      "$path": "src/Teams"
+    }
+  }
+}

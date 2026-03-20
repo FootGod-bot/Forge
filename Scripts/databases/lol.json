@@ -1,0 +1,9 @@
+{
+    "Name": "Example",
+    "Id": "example",
+    "Packages": {
+        "file": "https://github.com/FootGod-bot/Forge/releases/download/release/test.forge",
+        "Github": "FootGod-bot/Forge",
+        "Local": "C:/users/aiden/downloads/FORGE/test.forge"
+    }
+}
